@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729799909914",
+    "firebase_url": "https://neogaeilge.firebaseio.com",
+    "project_id": "neogaeilge",
+    "storage_bucket": "neogaeilge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729799909914:android:d36f38f7d38054fe0427a3",
+        "android_client_info": {
+          "package_name": "com.GVS.Graphic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729799909914-asuvan6iu1bakn4afk9d4vu2actmtu93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.GVS.Graphic",
+            "certificate_hash": "95310a61c78b36bda588ccbf832938f2a7b99805"
+          }
+        },
+        {
+          "client_id": "729799909914-5j1lfjnfffgnf1h3s13sedilvc1blnms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChCI__nuL1fs8zLT2RRN_Fj4oMSArKFe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729799909914-5j1lfjnfffgnf1h3s13sedilvc1blnms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
