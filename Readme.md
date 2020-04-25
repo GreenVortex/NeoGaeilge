@@ -22,6 +22,7 @@ N/A
 👤 **Jan Andersson**
 
 ## Show your support
+Created in support of the Irish Language☘️
 
 Give a ⭐️ if this project helped you!
 
